@@ -1,0 +1,83 @@
+.about-me {
+ border: 2pt solid black;
+ background-color: light salmon;
+}
+.name
+h1 {
+ font-weight:bold;
+ font-family:times new roman;
+ font-size:13pt;
+ text-align:left;
+}
+
+.profile-info img {
+ width:172px;
+ height:172px;
+}
+.description {
+ font-family: sans-serif;
+ color: blue;
+}
+.education {
+ border-spacing: 10pt;
+ background-color: light blue;
+}
+.education th {
+ text-align: left;
+ text-decoration:underline;
+}
+
+.education td {
+ text-align:left;
+}
+
+.course-iit {
+ display: flex;
+ justify-content:space-between;
+}
+
+.spring-semester, .autumn-semester {
+ border: 3pt solid;
+ padding: 10pt ;
+}
+
+.spring-semester {
+ background-color: lightpink ;
+}
+
+.autumn-semester {
+ background-color: lightpink ;
+}
+
+.spring-semester a:link {
+ color: blue ;
+}
+
+.spring-semester a:visited {
+ color: gray ;
+}
+
+.spring-semester a:hover {
+ color: green ;
+}
+
+.spring-semester a:active {
+ color: pink ;
+ }
+ 
+ .autumn-semester a {
+ color: inherit ;
+ }
+ 
+ 
+.intrests {
+
+}
+
+body {
+ background-image: https://images.hindustantimes.com/img/2022/04/14/550x309/kgf_2_1649936213145_1649936226735.jpg;
+ }
+ 
+.social- 
+ 
+ 
